@@ -9,6 +9,9 @@ This project focuses on analyzing World Bank Poverty Data to derive insights and
 - Utilizes Random Forest and SVM classifiers for predictive modeling.
 - Includes data preparation, analysis, modeling, and visualization steps.
 
+## Read the blog about our project here: 
+- "(https://medium.com/@ayeshamohramali/data-driven-exploration-using-the-world-bank-poverty-data-e34bbb3d5cb0)"
+
 
 ## Group Members
 - Ayesha Baloch (20SW044)
