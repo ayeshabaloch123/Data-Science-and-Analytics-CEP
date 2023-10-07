@@ -10,7 +10,7 @@ This project focuses on analyzing World Bank Poverty Data to derive insights and
 - Includes data preparation, analysis, modeling, and visualization steps.
 
 
-## Group Member
-Ayesha Baloch (20SW044)
-Shiza Hassan (20SW024)
+## Group Members
+- Ayesha Baloch (20SW044)
+- Shiza Hassan (20SW024)
 
