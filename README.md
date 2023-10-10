@@ -28,6 +28,13 @@ The analysis utilizes the following Python libraries:
 - matplotlib (version  3.8.0): For data visualization.
 - scikit-learn (version 0.24.2): For machine learning models and evaluation metrics.
 
+## Predictive Models
+## Random Forest Classifier:
+Random Forest is an ensemble learning algorithm that constructs a multitude of decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees. It excels at handling complex datasets and mitigates overfitting by aggregating predictions from multiple trees. Each tree in the forest is built on a subset of the data and features, promoting diversity and robustness.
+
+## Support Vector Machine (SVM) Classifier:
+Support Vector Machines are powerful supervised learning models used for classification and regression tasks. SVM seeks to find a hyperplane that best separates data points into distinct classes. It aims to maximize the margin between classes while minimizing classification errors. SVM is effective in high-dimensional spaces and is versatile due to different kernel functions, allowing it to capture complex relationships in the data. SVM is particularly useful when dealing with non-linear decision boundaries.
+
 ## Project Structure
 
 The project is organized as follows:
